@@ -29,3 +29,17 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p005.cpp =    WAP to swap 2 numbers using CALL BY POINTERS
 #
 #### p006.cpp =    WAP to swap 2 numbers using CALL BY REFERENCE VARIABLE
+
+##  Program based on Classes  ( OOPs )
+#
+#### p007.cpp =    WAP that demonstrate Default Arguments in C++
+#
+#### p008.cpp =    WAP  to check that number is prime or not
+#
+#### p009.cpp =    WAP to check that number is Armstrong Number or not
+#
+#### p010.cpp =    WAP to find sum of array element
+#
+#### p011.cpp =    WAP to develop Mini Calculator
+#
+#### p012.cpp =    WAP to perform matrix addition and subtraction by making matrix class
