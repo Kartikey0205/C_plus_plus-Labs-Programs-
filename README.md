@@ -5,6 +5,10 @@ This Project is basically helpful for all college student who faces some problem
 
 
 
+# NOTE --> I am using latest compiler so if you get any error in this code then Kindly first search it on Google whether it is a compiler based error or not. 
+
+
+
 ## REQUEST -  PLEASE UNDERSTAND!!
 Hey guys, all the program which is here is only to help students not to make them cheaters . I request you to please try it before atleast two times (try to build logic and think what the question ask) by self,if after your loyal effort,the logic not clicked then only come here and take this as a reference and after understanding it please try it again ,you will surely achieve success .
 
@@ -30,7 +34,7 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #
 #### p006.cpp =    WAP to swap 2 numbers using CALL BY REFERENCE VARIABLE
 
-##  Program based on Classes  ( OOPs )
+##  Program based on Classes  ( OOPs ) , friend functions
 #
 #### p007.cpp =    WAP that demonstrate Default Arguments in C++
 #
@@ -43,3 +47,22 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p011.cpp =    WAP to develop Mini Calculator
 #
 #### p012.cpp =    WAP to perform matrix addition and subtraction by making matrix class
+#
+#### p013.cpp =    WAP to perform matrix multiplication by making matrix class.
+#
+#### p014.cpp =    Define a class book having following attributes
+                   Data members:
+                   Int book_ id
+                   String book_title
+                   Int book_cost
+                   String book_author_name
+                   Member function:
+                   Void input_data(); 
+                   Void print(); 
+                   read details of n books from user and print them
+#
+#### p015.cpp =    WAP to demonstrate the inline Function
+#
+#### p016.cpp =    WAP to perform to add private data members of 3 classes using friend function and subtraction as a member function of one class and friend of another class.  
+#
+#### p017.cpp =    WAP to perform to addition ,subtraction , multiplication , division of  private data members of 2 classes using friend class
