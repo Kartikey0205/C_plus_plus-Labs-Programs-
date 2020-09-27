@@ -66,3 +66,7 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p016.cpp =    WAP to perform to add private data members of 3 classes using friend function and subtraction as a member function of one class and friend of another class.  
 #
 #### p017.cpp =    WAP to perform to addition ,subtraction , multiplication , division of  private data members of 2 classes using friend class
+#
+#### p018.cpp =    WAP to implement function overloading
+#
+#### p019.cpp =    WAP to implement new and delete operator
