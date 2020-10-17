@@ -49,3 +49,18 @@ int main()
 
     return 0;
 }
+/*
+OUTPUT:
+Value inside first object is
+a = 0
+b = 0
+c = 0
+Value inside second object is
+a = 3
+b = 4
+c = 6
+Value inside third object is
+a = 2
+b = 8
+c = 0
+*/
