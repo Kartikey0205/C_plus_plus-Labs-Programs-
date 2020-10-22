@@ -1,4 +1,4 @@
-//WAP to show the sum of matrix using operator overloading as a member function as well as friend function
+//WAP to show the sum  of matrix using operator overloading as a member function as well as subtraction , multiplication of operator overloading using friend function
 #include <iostream>
 using namespace std;
 class matrix
