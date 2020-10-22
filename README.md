@@ -81,6 +81,6 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #
 #### p023.cpp =    WAP to show the use of operator overloading of binary operator using member function
 #
-#### p024.cpp =    WAP to show the use of operator overloading of binary operator using  friend function
+#### p024.cpp =    WAP to show the use of operator overloading of binary operator using  friend function  perform sum , sub , multiplication
 #
-#### p025.cpp =    WAP to show the sum of matrix using operator overloading as a member function as well as friend function
+#### p025.cpp =    WAP to show the sum  of matrix using operator overloading as a member function as well as subtraction , multiplication of operator overloading using friend function
