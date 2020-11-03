@@ -89,7 +89,7 @@ int main()
     cout << "Solving expression of three complex number is\n"
          << endl;
 
-    result = c1 + c2 - c3; //result=(c1.opertor+(c2))+c3 => temp.operator+(c3)
+    result = c1 + c2 - c3; //result=(c1.opertor+(c2))-c3 => temp.operator-(c3)
     result.output();
 
     cout << "Multiplication of three complex number is\n"
