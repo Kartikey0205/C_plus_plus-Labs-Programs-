@@ -92,4 +92,13 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p027.cpp =    WAP to show how constructors and destructors are invoked in a program when used in inheritance.
 #
 #### p028.cpp =    WAP to show the working of default and parameterized constructors in inheritance.
-
+#
+#### p029.cpp =    WAP to show the use of Hybrid Inheritance / virtual Base Class / Multipath / Diamond shape inheritance
+#
+#### p030.cpp =    WAP to show the use of function overriding
+#
+#### p031.cpp =    WAP to implement static binding
+#
+#### p032.cpp =    WAP to implement dynamic  binding / virtual function
+#
+#### p033.cpp =    WAP to implement pure virtual function / Abstarct Functions
