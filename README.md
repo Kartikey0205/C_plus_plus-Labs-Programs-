@@ -101,4 +101,6 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #
 #### p032.cpp =    WAP to implement dynamic  binding / virtual function
 #
-#### p033.cpp =    WAP to implement pure virtual function / Abstarct Functions
+#### p033.cpp =    WAP to implement Virtual destructor.
+#
+#### p034.cpp =    WAP to implement pure virtual function / Abstarct Base Class
