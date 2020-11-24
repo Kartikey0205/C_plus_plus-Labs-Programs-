@@ -107,4 +107,4 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #
 ## File Handling
 #
-#### p035.cpp =    WAP to demonstrate raeding and writing a text file.
+#### p035.cpp =    WAP to demonstrate reading and writing a text file.
