@@ -104,3 +104,7 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p033.cpp =    WAP to implement Virtual destructor.
 #
 #### p034.cpp =    WAP to implement pure virtual function / Abstarct Base Class
+#
+## File Handling
+#
+#### p035.cpp =    WAP to demonstrate raeding and writing a text file.
