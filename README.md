@@ -116,4 +116,11 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p037.cpp =    WAP to  write in a file and read it also by using constructor.
 #
 #### p038.cpp =    WAP to  write in a file and read it also by using open() function
-
+#
+## Template Questions 
+#
+#### p039.cpp =    WAP which describes about Templates of C++
+#
+#### p040.cpp =    WAP to show that templates of c++ can take multiple parameters and explain default parameter concept in it
+#
+#### p041.cpp =    WAP to swap two number using the function Template concept
