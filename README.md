@@ -124,3 +124,7 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p040.cpp =    WAP to show that templates of c++ can take multiple parameters and explain default parameter concept in it
 #
 #### p041.cpp =    WAP to swap two number using the function Template concept
+#
+#### p042.cpp =    WAP to show how we can overload Template function.
+#
+## Template Questions 
