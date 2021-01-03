@@ -5,7 +5,9 @@ This Project is basically helpful for all college student who faces some problem
 
 
 
-## NOTE --> I am using latest compiler so if you get any error in this code then Kindly first search it on Google whether it is a compiler based error or not. 
+## <i>Note</i> -->
+          I am using latest compiler so if you get any error in this code then Kindly first search
+          it on Google whether it is a compiler based error or not. 
 
 
 
@@ -16,7 +18,8 @@ Hey guys, all the program which is here is only to help students not to make the
 I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so on , so you guys here take the reference which program is behind these names.
 
 
-#### I had  provided output of the program  below in each program file  as comment for reference.
+#### 
+      I had  provided output of the program  below in each program file  as comment for reference.
 
 # LIST OF PROGRAMS
 
@@ -128,3 +131,15 @@ I had given the code file with name like p001.cpp , p002.cpp , p003.cpp .....so 
 #### p042.cpp =    WAP to show how we can overload Template function.
 #
 ## STL (Standard Template Library) 
+#
+#### p043.cpp =    WAP to show how we can create vector or array with STL and show push , pop function in it .
+#
+#### p044.cpp =    WAP to show how we can insert element in vector or array using iterator with STL and show push , pop function in it .
+#
+#### p045.cpp =    WAP to explain each concept of List in STL like inserting element , removing of item , sorting of item , reversing of list , merging of list.
+#
+#### p046.cpp =    WAP to explain Maps in STL in C++
+#
+#### p047.cpp =    WAP to explain how to use function object in C++ STL
+
+ ### Thanks!!
